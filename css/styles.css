@@ -18,7 +18,7 @@ section {
     background-color: gray;
     float: left;
     width: 100vh;
-    height: 97vh;
+    height: 100vh;
     margin: 10px;
     text-align: center;
 }
@@ -27,7 +27,7 @@ aside {
     margin: 10px;
     float: right;
     width: 73vh;
-    height: 47vh;
+    height: 48.5vh;
     background-color: gray;
     text-align: center;
 }
@@ -37,7 +37,15 @@ footer {
     color: aliceblue;
     clear: both;
     margin: 10px;
-    height: 10VH;
+    height: 35VH;
 
     text-align: center;
+}
+
+a {
+    color: navajowhite;
+}
+
+li {
+    float: left;
 }
